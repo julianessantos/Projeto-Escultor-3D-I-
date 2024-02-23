@@ -9,4 +9,6 @@ O objetivo desse projeto é construir uma ferramenta em C++ para realizar escult
 
 A ideia é permitir que o utilizador da ferramenta seja capaz de criar um arquivo em texto simples que contém uma sequência de passos a serem seguidos para definir propriedades de uma matriz tridimensional. As propriedades contêm especificações de cor para os elementos, de sorte que com o auxílio de softwares de visualização o usuário possa apreciar a escultura criada.
 
+![Pokemon](imagens/pokemon.png)
+
 O projeto pode ser visualizado utilizando a plataforma replit, para execução do código e download do arquivo .off, e o site 3D Viewer.
